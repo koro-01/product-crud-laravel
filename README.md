@@ -8,6 +8,8 @@ This completes the entire Laravel e-commerce project with full CRUD functionalit
 4. Views for user interface
 5. Routes for defining URL structure
 6. Here's the file and folder structure for this project:
+
+
    app/
 └── Http/
     └── Controllers/
